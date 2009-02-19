@@ -1,12 +1,12 @@
 
 body{
- 	margin-left: auto;
-	margin-right: auto;
-	background: #f108b7 url(mr-spotlightpink.png) no-repeat;
-	background-position: 100px 0;
-	font-size: 14px;
-	font-family: verdana;
-	width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #000000 url(mr-spotlightpink.png) no-repeat;
+    background-position: 100px 0;
+    font-size: 14px;
+    font-family: verdana;
+    width: 750px;
 }
 #header {
 	text-align: center;
@@ -71,76 +71,76 @@ a[href$=".pdf"]{
 }
 
 #navbar a {
-	font-weight: bold;
-	color: black;
-	text-decoration: none;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
 }
 
 #navbar a:visited {
-	color: black;
+    color: black;
 }
 
 #navbar a:hover {
-	border-bottom: solid 2px white;
+    border-bottom: solid 2px white;
 }
 
 #navbar ul li a span {
-  display: none;
+    display: none;
 }
 
 #navbar ul {
-		text-align: center;
-		text-indent: 0;
-		padding-left: 0;
-		list-style: none;
+    text-align: center;
+    text-indent: 0;
+    padding-left: 0;
+    list-style: none;
 }
 
 #navbar li {
-	text-indent: -3em;
-	display: inline;
-	background-position: left;
-	padding-left: 15px;
-	margin: 0;
-	text-align: center;
+    text-indent: -3em;
+    display: inline;
+    background-position: left;
+    padding-left: 15px;
+    margin: 0;
+    text-align: center;
 }
 
 #navbar ul li:first-child {
-	padding-left: 0;
-	background-image: none;
+    padding-left: 0;
+    background-image: none;
 }
 a {
-	color: #2798F2;
+    color: #2798F2;
 }
 a:visited {
     color: #08f10d;
 }
 
 #maincontent {
-		font-size: 14px;
-	    width: 750px;
-	    padding-top: 10px;
+    font-size: 14px;
+    width: 750px;
+    padding-top: 10px;
 }
 
 #maincontent p {
-		padding: 0 1em 0 1em;
+    padding: 0 1em 0 1em;
 }
 
 #maincontent h1 {
-	font-size: x-large;
-	font-weight: bold;
+    font-size: x-large;
+    font-weight: bold;
 }
 #maincontent h2 {
-	font-size: 18px;
-	font-weight: bold;
+    font-size: 18px;
+    font-weight: bold;
 }
 
 #bigstupidimagediv img {
-  width: 750px;
+    width: 750px;
 }
 
 
 #footer {
-	color: black;
-	font-size: xx-small;
-	text-align: center;
+    color: black;
+    font-size: xx-small;
+    text-align: center;
 }
